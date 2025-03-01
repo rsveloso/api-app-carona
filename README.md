@@ -38,3 +38,5 @@ Business Rules (Regras de Negocio)
 
 [X] O motorista só pode aceitar uma carona por vez
 
+
+comando para executar a api: node --watch src/index.js
